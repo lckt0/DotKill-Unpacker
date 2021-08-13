@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotKill", "DotKill\DotKill.csproj", "{D05155DB-D9E1-4517-8D68-88C590E05FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05155DB-D9E1-4517-8D68-88C590E05FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05155DB-D9E1-4517-8D68-88C590E05FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05155DB-D9E1-4517-8D68-88C590E05FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05155DB-D9E1-4517-8D68-88C590E05FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B7BB02-3A42-4CF4-ABB3-1235852049F0}
+	EndGlobalSection
+EndGlobal
