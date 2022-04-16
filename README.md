@@ -1,5 +1,4 @@
 # DotKill-Unpacker
 #### Also drag and drop supported.
-<img src="https://imgupload.io/images/2021/06/16/Untitled.png"></img>
-<br>
-<img src="https://imgupload.io/images/2021/06/16/image_2021-06-16_111024.png"></img>
+- A dotnet unpacker/cleaner tool that can remove Anti De4Dot, Junk Types, Math Protection, Anti Decompiler, Control Flow etc. protections from a .NET assembly.
+<img src="https://user-images.githubusercontent.com/72506238/163676274-4458db06-db8c-4036-b313-fdffbd734c36.png"></img>
